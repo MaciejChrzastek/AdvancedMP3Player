@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a541dde2-9a6a-4290-9585-759236cb8c14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lgwSCIMcioEtHkefct32wZNWKn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testgui.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Maciej Chrząstek\PycharmProjects\MusicPlayer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.advancedmp3player">
+    <configuration name="advancedmp3player" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MusicPlayer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Maciej Chrząstek\PycharmProjects\MusicPlayer\advancedmp3player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MusicPlayer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testimagefromurl" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MusicPlayer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Maciej Chrząstek\PycharmProjects\MusicPlayer\testimagefromurl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.testimagefromurl" />
+      <item itemvalue="Python.advancedmp3player" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a541dde2-9a6a-4290-9585-759236cb8c14" name="Default Changelist" comment="" />
+      <created>1608032039420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608032039420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609436122791">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1609436122791" />
+    <state x="580" y="188" key="FileChooserDialogImpl" timestamp="1609436120088">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1609436120088" />
+    <state width="1579" height="265" key="GridCell.Tab.0.bottom" timestamp="1610118505573">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="265" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610118505573" />
+    <state width="1579" height="265" key="GridCell.Tab.0.center" timestamp="1610118505541">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="265" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610118505541" />
+    <state width="1579" height="265" key="GridCell.Tab.0.left" timestamp="1610118505480">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="265" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610118505480" />
+    <state width="1579" height="265" key="GridCell.Tab.0.right" timestamp="1610118505570">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="265" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610118505570" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1609470965299">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1609470965299" />
+    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1609470965299">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1609470965299" />
+    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1609470965299">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1609470965299" />
+    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1609470965299">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1609470965299" />
+    <state x="303" y="75" key="SettingsEditor" timestamp="1608034804271">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="303" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1608034804271" />
+    <state x="507" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1610578886063">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1610578886063" />
+    <state x="452" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609511043764">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="452" y="48" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1609511043764" />
+  </component>
+</project>
